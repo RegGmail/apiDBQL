@@ -1,2 +1,2 @@
-# mBDQL
+# apiDBQL
 mongoDB+Poetry+fastaapi+async
